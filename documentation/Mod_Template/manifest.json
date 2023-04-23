@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
-    "developer":
+    "name": "COM108 GX Mod",
+    "description": "Mod created to showcase for a project",
+    "developer": 
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Kyle Frisbee"
     },
     "icons":
     {
